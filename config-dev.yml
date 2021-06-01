@@ -1,2 +1,2 @@
-Spring:
-  port:2020
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=7" 
